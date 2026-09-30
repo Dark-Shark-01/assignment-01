@@ -13,7 +13,7 @@ function Navbar() {
       <a href="#home" className="brand">
         <span className="brand-logo">P</span>
         <span>
-          Pratim <strong>Das</strong>
+          Pritam <strong>Ghora</strong>
         </span>
       </a>
 

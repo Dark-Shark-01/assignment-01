@@ -17,7 +17,7 @@ function About() {
           <div className="about-text">
 
             <p>
-              I'm Pratim Das, a dedicated and curious BCA
+              I'm Pritam Ghora, a dedicated and curious BCA
               student at Techno India University. I enjoy
               coding, learning new technologies, and working
               on projects that solve real-world problems.
@@ -51,7 +51,7 @@ function About() {
             </p>
 
             <span>
-              — Pratim Das
+              — Pritam Ghora
             </span>
 
           </div>

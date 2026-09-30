@@ -11,7 +11,7 @@ function Hero() {
           </p>
 
           <h1>
-            Pratim <span>Das</span>
+            Pritam <span>Ghora</span>
           </h1>
 
           <h2>
@@ -47,7 +47,7 @@ function Hero() {
           <div className="hero-socials">
 
             <a
-              href="https://github.com/pratimdass"
+              href="https://github.com/Dark-Shark-01"
               target="_blank"
               rel="noreferrer"
             >
@@ -55,14 +55,14 @@ function Hero() {
             </a>
 
             <a
-              href="https://www.linkedin.com/in/pratimdas-/"
+              href="https://www.linkedin.com/in/pritamghora-/"
               target="_blank"
               rel="noreferrer"
             >
               LinkedIn
             </a>
 
-            <a href="mailto:pratimdas145@gmail.com">
+            <a href="mailto:pghora86@gmail.com">
               Email
             </a>
 
@@ -78,7 +78,7 @@ function Hero() {
           <div className="image-frame">
             <img
               src="/profile.jpg"
-              alt="Pratim Das"
+              alt="Pritam Ghora"
             />
           </div>
 

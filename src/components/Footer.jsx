@@ -11,20 +11,20 @@ function Footer() {
           </span>
 
           <strong>
-            Pratim Das
+            Pritam Ghora
           </strong>
 
         </div>
 
         <p>
-          © 2026 Pratim Das.
+          © 2026 Pritam Ghora.
           All rights reserved.
         </p>
 
         <div className="footer-socials">
 
           <a
-            href="https://github.com/pratimdass"
+            href="https://github.com/Dark-Shark-01"
             target="_blank"
             rel="noreferrer"
           >
@@ -32,14 +32,14 @@ function Footer() {
           </a>
 
           <a
-            href="https://www.linkedin.com/in/pratimdas-/"
+            href="https://www.linkedin.com/in/pritamghora-/"
             target="_blank"
             rel="noreferrer"
           >
             LinkedIn
           </a>
 
-          <a href="mailto:pratimdas145@gmail.com">
+          <a href="mailto:pghora86@gmail.com">
             Email
           </a>
 
